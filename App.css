@@ -1,0 +1,11 @@
+.avatar {
+    border: solid 2px blue;
+    border-radius: 4px;
+    margin: 8px;
+    padding: 8px;
+    display: inline-block;
+}
+
+.name {
+    text-align: center;
+}
