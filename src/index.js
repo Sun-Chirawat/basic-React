@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App-fruit2';
+import App from './datagrid/App';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
